@@ -1,0 +1,15 @@
+1.react router set title based on route (google search) upore title er moddhe cheang hobe page er title..
+
+2.react google maps (google search) google map use kora jay.
+
+3.react google map api key (google search) dewar pore developer.com er moddhe jaite hobe..
+
+
+
+
+
+
+
+
+
+
